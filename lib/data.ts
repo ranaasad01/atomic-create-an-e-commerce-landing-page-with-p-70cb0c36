@@ -1,5 +1,5 @@
 // ─── Brand constants ────────────────────────────────────────────────────────
-export const BRAND_NAME = "Lumière";
+export const BRAND_NAME = "Amazon";
 export const BRAND_TAGLINE = "Curated quality, delivered to your door.";
 export const BRAND_EMAIL = "hello@lumiere.shop";
 
